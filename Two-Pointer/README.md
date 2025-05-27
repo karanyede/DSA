@@ -63,7 +63,7 @@ Below is a list of **frequently asked interview problems** that can be solved us
 1. **Two Sum II - Input Array is Sorted**
    - Problem: Find two numbers in a sorted array that add up to a target value.
    - Companies: Amazon, Microsoft, Google
-   - File: [`TwoSumII.java`](TwoSumII.java)
+   - File: [`TwoSum.java`](TwoSum.java)
 
 2. **Valid Palindrome**
    - Problem: Check if a string is a palindrome, ignoring non-alphanumeric characters.
