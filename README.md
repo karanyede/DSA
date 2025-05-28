@@ -30,15 +30,19 @@ The repository is organized into folders based on problem-solving patterns. Belo
 ```
 DSA/
 ├── Two-Pointer/               # Solutions using the Two Pointer technique
-│   ├── Problem1.java          # Example problem solved using Two Pointers
-│   ├── Problem2.java          # Another example in Java
+│   ├── Easy                   # Easy Example problem solved using Two Pointers
+│   ├── Medium                 # Medium Example problem solved using Two Pointers
+│   └── Hard                   # Hard Example problem solved using Two Pointers
 │   └── README.md              # Explanation of the Two Pointer pattern
 ├── Hashmap/                   # Solutions using Hashmaps
-│   ├── Problem1.java          # Example problem solved using Hashmaps
-│   ├── Problem2.java          # Another example in Java
+│   ├── Easy                   # Easy Example problem solved using Hashmap pattern
+│   ├── Medium                 # Medium Example problem solved using Hashmap pattern
+│   └── Hard                   # Hard Example problem solved using Hashmap pattern
 │   └── README.md              # Explanation of the Hashmap pattern
 ├── Sliding-Window/            # Solutions using the Sliding Window technique
-│   ├── Problem1.java          # Example problem solved using Sliding Window
+│   ├── Easy                   # Easy Example problem solved using Sliding Window pattern
+│   ├── Medium                 # Medium Example problem solved using Sliding Window pattern
+│   └── Hard                   # Hard Example problem solved using Sliding Window pattern
 │   └── README.md              # Explanation of the Sliding Window pattern
 ├── Backtracking/              # Solutions using Backtracking
 ├── Dynamic-Programming/       # Solutions using Dynamic Programming
