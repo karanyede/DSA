@@ -2,7 +2,7 @@
 
 Welcome to my **Data Structures and Algorithms (DSA)** preparation repository! This repository is dedicated to solving DSA problems using **Java**. Each problem is categorized by patterns such as **Two Pointers**, **Hashmap**, **Sliding Window**, and more. My goal is to systematically improve my problem-solving skills while providing clear and efficient solutions for others to learn from.
 
----
+--- 
 
 ## 📋 Table of Contents
 
